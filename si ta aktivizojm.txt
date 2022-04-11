@@ -1,3 +1,0 @@
-fillimisht startohet xampi me server
-hapet cmd prompt edhe vendoset commanda me lart
-pastaj hapet klienti ngoogle chrome me localhost

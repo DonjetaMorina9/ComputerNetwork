@@ -1,0 +1,1 @@
+php -f path to htdocs\serveri.php
